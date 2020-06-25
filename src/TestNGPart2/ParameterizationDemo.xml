@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Paremeters Demo">
+	<test name="Parameters">
+	<parameter name="browser" value="Chrome">
+	</parameter>
+	
+	<parameter name="browser1" value="Firefox">
+	</parameter>
+	<parameter name="username" value="admin"></parameter>
+	<parameter name="password" value="Admin123"></parameter>
+	<classes>
+		<class name="TestNGPart2.ParmeterDemo">
+		</class>
+	</classes>
+	</test>
+</suite>

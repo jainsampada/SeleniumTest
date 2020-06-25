@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parameterization Test Suite" parallel="methods" thread-count="2">
+	<test name="parallel Testing" group-by-instances="true">
+	
+		<classes>
+			<class name="TestNG.ParallelMethods" />
+		</classes>
+	</test>
+</suite>

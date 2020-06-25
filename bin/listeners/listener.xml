@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Listeners">
+	<listeners>
+	<listener class-name="listeners.CustomListener"></listener>
+	</listeners>
+	
+	<test name="Listeners">
+	
+	<classes>
+		<class name="listeners.ListenerDemo">
+		</class>
+	</classes>
+	
+	</test>
+</suite>

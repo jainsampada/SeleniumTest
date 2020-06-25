@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parameterization Test Suite">
+	<test name="Testing Parameterization">
+	<classes>
+			<class name="TestNG.MultiThread" />
+	</classes>
+	</test>
+</suite>

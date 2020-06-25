@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel Demo" parallel="methods" thread-count="2">
+	<test name="Parallel">
+	
+	<classes>
+		<class name="TestNGPart2.ParallelMethods">
+		</class>
+	</classes>
+	</test>
+</suite>
